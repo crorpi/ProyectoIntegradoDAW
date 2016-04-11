@@ -1,6 +1,6 @@
 <?php
 
-$number = 1000;
+$number = 15000000;
 if ($number != 0) {
  echo "The number was not equal to 0";
 }
